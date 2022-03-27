@@ -1,10 +1,21 @@
 <template>
-    <div class="body-bg min-h-screen pt-12 md:pt-20 pb-6 px-2 md:px-0">
+    <div class="body-bg min-h-screen px-2 md:px-0">
+      <Navbar />
+      <Headermain />
       <Nuxt />
     </div>
 </template>
 
 <script>
+import Navbar from '~/components/NavBar.vue'
+import Headermain from '~/components/HeaderMain.vue'
+
+export default {
+    components: {
+      Navbar,
+      Headermain
+    }
+  }
 </script>
 
 <style scoped>

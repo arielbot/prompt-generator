@@ -1,9 +1,5 @@
 <template>
   <div>
-    <header class="max-w-lg mx-auto">
-      <h1 class="text-4xl font-bold text-white text-center">Reading Prompt Generator
-      </h1>
-    </header>
     <main class="bg-white max-w-lg mx-auto p-8 md:p-12 my-10 rounded-lg shadow-2xl">
       <h2 class="block text-gray-700 text-sm font-bold mb-2 uppercase">Read a book that...</h2>
       <section>
