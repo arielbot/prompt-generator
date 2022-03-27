@@ -1,44 +1,42 @@
-{
-  "prompts": [
-    {
-      "id": 1,
-      "string": "Published in 2022"
-    },
-    {
-      "id": 2,
-      "string": "set on a plane, train, or cruise ship"
-    },
-    {
-      "id": 3,
-      "string": "tiger on the cover"
-    },
-    {
-      "id": 4,
-      "string": "sapphic book"
-    },
-    {
-      "id": 5,
-      "string": "found family trope"
-    },
-    {
-      "id": 6,
-      "string": "set in the 1980s"
-    },
-    {
-      "id": 7,
-      "string": "witches"
-    },
-    {
-      "id": 8,
-      "string": "takes place during your favorite season"
-    },
-    {
-      "id": 9,
-      "string": "Hugo Award winner"
-    },
-    {
-      "id": 10,
-      "string": "parallel reality"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "string": "Published in 2022"
+  },
+  {
+    "id": 2,
+    "string": "set on a plane, train, or cruise ship"
+  },
+  {
+    "id": 3,
+    "string": "tiger on the cover"
+  },
+  {
+    "id": 4,
+    "string": "sapphic book"
+  },
+  {
+    "id": 5,
+    "string": "found family trope"
+  },
+  {
+    "id": 6,
+    "string": "set in the 1980s"
+  },
+  {
+    "id": 7,
+    "string": "witches"
+  },
+  {
+    "id": 8,
+    "string": "takes place during your favorite season"
+  },
+  {
+    "id": 9,
+    "string": "Hugo Award winner"
+  },
+  {
+    "id": 10,
+    "string": "parallel reality"
+  }
+]
